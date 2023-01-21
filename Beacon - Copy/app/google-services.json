@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "370319080204",
+    "firebase_url": "https://beacon-df6b1-default-rtdb.firebaseio.com",
+    "project_id": "beacon-df6b1",
+    "storage_bucket": "beacon-df6b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370319080204:android:61db42ffba04cf345fe729",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370319080204-5bsvp1du0t5o2jgj7rtpeu62fn1tu9eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawJilVWVyrLGFRb1aj1BcUlgB5_gmous"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370319080204-5bsvp1du0t5o2jgj7rtpeu62fn1tu9eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370319080204:android:c28770038eaa64d15fe729",
+        "android_client_info": {
+          "package_name": "com.example.oakridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370319080204-5bsvp1du0t5o2jgj7rtpeu62fn1tu9eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawJilVWVyrLGFRb1aj1BcUlgB5_gmous"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370319080204-5bsvp1du0t5o2jgj7rtpeu62fn1tu9eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
